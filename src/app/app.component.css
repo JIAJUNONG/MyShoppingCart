@@ -1,0 +1,50 @@
+nav {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+nav #mycart {
+    margin-top: 30px;
+}
+
+#mainlogo { 
+    width: 30%;
+}
+
+#mycart{
+    display: inline-flex;
+    justify-content: flex-end;
+
+}
+
+#productArea{
+    display: block;
+    outline-style: double;
+    padding-top: 10px;
+    width: 50%;
+    /* background-color:none; */
+}
+
+
+#cartArea{
+    display: block;
+    outline-style: double;
+    padding-top: 10px;
+    width: 50%;
+    /* margin-left: 50%; */
+}
+
+
+#productIcon{
+    width: 5%;
+}
+
+footer {
+    padding-top: 10px;
+    display: flex;
+}
+
+
+
+
+
